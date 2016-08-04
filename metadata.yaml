@@ -1,0 +1,52 @@
+_repo: Ragged-Dick-Or-Street-Life-in-New-York-with-the-Boot-Blacks_5348
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alger, Horatio
+    aliases:
+    - Starr, Julian
+    - Preston, Charles F.
+    - Putnam, Arthur Lee
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: "Ragged Dick; or, Street Life in New York with the Boot Blacks is a Bildungsroman\
+  \ by Horatio Alger Jr., which was serialized in Student and Schoolmate in 1867 and\
+  \ expanded for publicaton as a full-length novel in May 1868 by the publisher A.\
+  \ K. Loring. It was the first volume in the six-volume Ragged Dick Series and became\
+  \ Alger's best-selling work. The tale follows a poor bootblack's rise to middle-class\
+  \ respectability in 19th-century New York City. It had a favorable reception. Student\
+  \ and Schoolmate reported their readers were delighted with the first installment,\
+  \ and Putnam's Magazine thought boys would love the novel. One modern scholar considers\
+  \ the story a \"puerile fantasy\" about class assimilation. The plot and theme were\
+  \ repeated in Alger's subsequent novels and became the subject of parodies and satires.\n\
+  Ragged Dick and Alger's Silas Snobden's Office Boy inspired the musical comedy Shine!\
+  \ in 1982.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2004-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5348'
+  wikidata: Q7282890
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Street children -- Fiction'
+- !lcsh 'Poor children -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Shoe shiners -- Fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+- GITenberg
+title: Ragged Dick, Or, Street Life in New York with the Boot-Blacks
+url: http://www.gutenberg.org/ebooks/5348
+wikipedia:
+- https://simple.wikipedia.org/wiki/Ragged_Dick
+- https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D9%83_%D8%A7%D9%84%D8%A3%D8%B4%D8%B9%D8%AB
+- https://en.wikipedia.org/wiki/Ragged_Dick
