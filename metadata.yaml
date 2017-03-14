@@ -1,5 +1,8 @@
 _repo: Ragged-Dick-Or-Street-Life-in-New-York-with-the-Boot-Blacks_5348
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Alger, Horatio
@@ -24,6 +27,8 @@ description: "Ragged Dick; or, Street Life in New York with the Boot Blacks is a
   \ repeated in Alger's subsequent novels and became the subject of parodies and satires.\n\
   Ragged Dick and Alger's Silas Snobden's Office Boy inspired the musical comedy Shine!\
   \ in 1982.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5348#Ragged-Dick-Or-Street-Life-in-New-York-with-the-Boot-Blacks
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2004-10-05'
 gutenberg_type: Text
